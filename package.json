@@ -23,7 +23,7 @@
         "url": "https://github.com/searchcoin/bitcore-message.git"
     },
     "dependencies": {
-        "bitcore-lib": "https://github.com/searchcoin/ssccore-lib.git"
+        "bitcore-lib": "https://github.com/searchcoin/searchcore-lib.git"
     },
     "devDependencies": {
         "bitcore-build": "https://github.com/bitchk-wallet/bitcore-build.git",
